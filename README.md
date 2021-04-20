@@ -1,4 +1,4 @@
-# Projet tutoré
+# Projet avec maxime
 
 Dépôt du code du projet "Random Forest"
 
